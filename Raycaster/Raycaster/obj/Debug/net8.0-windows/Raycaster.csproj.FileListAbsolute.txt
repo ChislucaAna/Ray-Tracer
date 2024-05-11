@@ -1,0 +1,16 @@
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\bin\Debug\net8.0-windows\Raycaster.exe
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\bin\Debug\net8.0-windows\Raycaster.deps.json
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\bin\Debug\net8.0-windows\Raycaster.runtimeconfig.json
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\bin\Debug\net8.0-windows\Raycaster.dll
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\bin\Debug\net8.0-windows\Raycaster.pdb
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.BasicRays.resources
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.AssemblyInfoInputs.cache
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.AssemblyInfo.cs
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.dll
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\refint\Raycaster.dll
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.pdb
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.genruntimeconfig.cache
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\ref\Raycaster.dll
