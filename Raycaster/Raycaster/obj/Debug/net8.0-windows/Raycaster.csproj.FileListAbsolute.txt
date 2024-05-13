@@ -14,3 +14,4 @@ C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\ref
 C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.pdb
 C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.genruntimeconfig.cache
 C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\ref\Raycaster.dll
+C:\Users\anach\OneDrive\Desktop\Raycaster\Raycaster\obj\Debug\net8.0-windows\Raycaster.Reflection.resources
